@@ -1,6 +1,6 @@
 {
   "name": "redux-simple-action-helpers",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "redux helpers for simple action and action creators",
   "main": "./lib/src/index.js",
   "repository": "github:kamikazePT/redux-simple-action-helpers",
